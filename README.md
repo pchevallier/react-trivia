@@ -2,7 +2,7 @@
 
 [React](https://facebook.github.io/react/) version of Trivia application. The app is written with React and ES6 (ES2015), and is built using [Babel](https://babeljs.io/) and [Webpack](https://webpack.github.io/).
 
-Check out a hosted version [here](https://ccoenraets.github.io/react-trivia/).
+Check out a hosted version [here](https://pchevallier.github.io/react-trivia/).
 
 ## Make it Your Own
 
